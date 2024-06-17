@@ -8,7 +8,7 @@
 header {
     background: #1f2937;
     max-width: 75em;
-    padding: 0.8em;
+    padding: 0.8em 0.8em 3em 0.8em;
     display: flex;
     justify-content: space-around;
 }
