@@ -4,7 +4,7 @@
     box-sizing: border-box;
     font-size: 16px;
 }
-
+/*  HEADER */
 header {
     background: #1f2937;
     max-width: 75em;
@@ -28,3 +28,58 @@ header {
     color:antiquewhite;
     text-decoration: none;
 }
+/* END HEADER */
+
+/* HERO */
+.hero {
+    max-width: 75em;
+    background: #1f2937;
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+    align-items: center;
+    padding: 0.8em 0.8em 5em 0.8em;
+    
+}
+
+.hero-text {
+    width: 400px;
+}
+
+.hero-text h1 {
+    font-size: 2em;
+    color: #f9faf8;
+    margin-bottom: 0.5em;
+}
+
+.hero-text p {
+    font-size: 1.1em;
+    color: #f9faf8;
+    margin-bottom: 0.5em;
+}
+
+.button {
+    background: #3882f6;
+    border-radius: 5px;
+    width: 5em;
+    padding: 0.2em 0.8em;
+    text-align: center;
+}
+
+.button a{
+    text-decoration: none;
+    color: #f9faf8;
+    font-weight: bolder;
+    font-size: 0.8em;
+}
+
+.hero-img {
+    width: 400px;
+}
+
+img {
+    width: 300px;
+    height: 182px;
+}
+
+/* END HERO */
