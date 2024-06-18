@@ -132,3 +132,28 @@ img {
     font-size: 10px;
 }
 /* END MAIN-INFO */
+
+/* MAIN-QUOTE */
+.main-quote {
+    max-width: 1200px;
+    padding-top: 4em;
+    padding-bottom: 4em;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color: #e5e7eb;
+
+}
+.quote {
+    color: #1f2937;
+    text-align: left;
+    font-weight: light;
+    font-size: 1.2em;
+    font-style: italic;
+    padding: 2em 2em 1em 2em;
+}
+.quote-Author {
+    text-align: right;
+    padding: 0 2em;
+    font-weight: bold;
+}
+/* END MAIN-QUOTE */
