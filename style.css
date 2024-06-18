@@ -101,6 +101,7 @@ img {
 
 /* MAIN-INFO */
 .main-info{
+    max-width: 1200px;
     padding-left: 10%;
     padding-right: 10%;
     margin-bottom: 4em;
@@ -157,3 +158,32 @@ img {
     font-weight: bold;
 }
 /* END MAIN-QUOTE */
+
+/* MAIN-SIGNUP */
+.main-signUp {
+    max-width: 1200px;
+    padding-top: 4em;
+    padding-bottom: 4em;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.signUp-container {
+    background: #3882f6;
+    padding: 2em 1em;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 3em;
+}
+.singUp-info {
+    color: #fff;
+}
+h3 {
+    margin-bottom: 0.5em;
+}
+.button {
+    border: 2px solid #fff;
+}
+/* END MAIN-SIGNUP */
