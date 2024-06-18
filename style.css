@@ -4,11 +4,13 @@
     box-sizing: border-box;
     font-size: 16px;
 }
-/*  HEADER */
-header {
+/*  MAIN-HERO */
+.main-hero {
+    max-width: 1200px;
     background: #1f2937;
-    max-width: 75em;
-    padding: 0.8em 0.8em 3em 0.8em;
+    padding-bottom: 4em;
+}
+header {
     display: flex;
     justify-content: space-around;
 }
@@ -28,18 +30,14 @@ header {
     color:antiquewhite;
     text-decoration: none;
 }
-/* END HEADER */
+/*  MAIN-HERO */
 
 /* HERO */
 .hero {
-    max-width: 75em;
-    background: #1f2937;
     display: flex;
     justify-content: center;
     gap: 2em;
     align-items: center;
-    padding: 0.8em 0.8em 5em 0.8em;
-    
 }
 
 .hero-text {
