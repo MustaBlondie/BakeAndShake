@@ -183,7 +183,23 @@ img {
 h3 {
     margin-bottom: 0.5em;
 }
-.button {
+.button-two {
     border: 2px solid #fff;
 }
 /* END MAIN-SIGNUP */
+
+/* FOOTER */
+footer {
+    background: #1f2937;
+    max-width: 1200px;
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+footer p {
+    text-align: center;
+    color: #fff;
+    font-size: small;
+}
+/* END FOOTER*/
