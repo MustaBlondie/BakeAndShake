@@ -7,6 +7,7 @@
 /*  MAIN-HERO */
 .main-hero {
     max-width: 1200px;
+    margin: 0 auto;
     background: #1f2937;
     padding-bottom: 5em;
     padding-left: 10%;
@@ -93,6 +94,7 @@ img {
 /* MAIN-CONTAINER */
 .main-container {
     max-width: 1200px;
+    margin: 0 auto;
     padding-left: 10%;
     padding-right: 10%;
     padding-top: 2em;
@@ -137,6 +139,7 @@ img {
 /* MAIN-QUOTE */
 .main-quote {
     max-width: 1200px;
+    margin: 0 auto;
     padding-top: 4em;
     padding-bottom: 4em;
     padding-left: 10%;
@@ -162,6 +165,7 @@ img {
 /* MAIN-SIGNUP */
 .main-signUp {
     max-width: 1200px;
+    margin: 0 auto;
     padding-top: 4em;
     padding-bottom: 4em;
     padding-left: 10%;
@@ -192,6 +196,7 @@ h3 {
 footer {
     background: #1f2937;
     max-width: 1200px;
+    margin: 0 auto;
     padding-top: 1.5em;
     padding-bottom: 1.5em;
     padding-left: 10%;
